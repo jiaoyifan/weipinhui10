@@ -1,0 +1,14 @@
+#div3>img{
+	width: 100%;
+}
+#div3>div{
+	display: flex;
+	height: 210px;
+	background: url(../img/唯品会VIP特卖会：品牌特卖- 唯品会_files/15557461870823.jpg);
+	background-size: 100%;
+	align-content: space-between;
+}
+#div3>div>img{
+	width=20%;
+	margin-top: 70px;
+	margin-left: 20;
